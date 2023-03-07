@@ -55,7 +55,7 @@ header nav ul li a:hover {
     margin: 69px auto;
     height: 700px;
     width: 1200px;
-    background-image: url(./images/img-mission-background.jpg);
+    background-image: url(./img-mission-background.jpg);
     display: flex;
     align-items: center;
     text-align: center;
@@ -96,7 +96,7 @@ header nav ul li a:hover {
     width: 1200px;
     height: 500px;
     margin: 69px auto;
-    background-image: url(./images/img-locations-background.jpg);
+    background-image: url(./img-locations-background.jpg);
     background-position-y: 20%;
     background-size: 1200px;
     text-align: center;
